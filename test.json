@@ -1,6 +1,34 @@
 {
-  "tvapp": {
-    "name": "11111",
-    "url": "22222"
-  }
+  "tvapp": [
+    {
+      "name": "app11111",
+      "url": "111111"
+    },
+    {
+      "name": "app2222",
+      "url": "22222"
+    }
+  ],
+  "multipleApi": [
+    {
+      "name": "multipleApi11111",
+      "url": "111111"
+    }
+  ],
+  "singleApi": [
+    {
+      "name": "singleApi11111",
+      "url": "111111"
+    },
+    {
+      "name": "singleApi222221",
+      "url": "22222"
+    }
+  ],
+  "liveApi": [
+    {
+      "name": "liveApi11111",
+      "url": "111111"
+    }
+  ]
 }

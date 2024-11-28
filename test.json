@@ -17,12 +17,9 @@
   ],
   "singleApi": [
     {
-      "name": "singleApi11111",
-      "url": "111111"
-    },
-    {
-      "name": "singleApi222221",
-      "url": "22222"
+      "name": "小马线路",
+      "url": "https://szyyds.cn/tv/x.json",
+      "time": "2024.11.28"
     }
   ],
   "liveApi": [

@@ -14,6 +14,11 @@
       "name": "一木多仓",
       "url": "https://ghp.ci/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json",
       "time": "2024.11.17"
+    },
+    {
+      "name": "iduoduo",
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+      "time": "2024.11.30"
     }
   ],
   "singleApi": [
@@ -53,6 +58,11 @@
       "name": "supprise live",
       "url": "https://supprise0901.github.io/TVBox_live/live.txt",
       "time": "2024.11.27"
+    },
+    {
+      "name": "4K live",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
+      "time": "2024.11.30"
     }
   ]
 }

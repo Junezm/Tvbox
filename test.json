@@ -26,6 +26,16 @@
       "name": "小马单仓线路",
       "url": "https://szyyds.cn/tv/x.json",
       "time": "2024.11.28"
+    },
+    {
+      "name": "1129 4K",
+      "url": "http://xhztv.top/4k.json",
+      "time": "2024.11.29"
+    },
+    {
+      "name": "100km",
+      "url": "https://www.100km.top/0",
+      "time": "2024.11.29"
     }
   ],
   "liveApi": [

@@ -32,6 +32,11 @@
       "name": "100km",
       "url": "https://www.100km.top/0",
       "time": "2024.11.29"
+    },
+    {
+      "name": "1201单仓",
+      "url": "http://9xi4o.tk/0725.json",
+      "time": "2024.12.01"
     }
   ],
   "liveApi": [
@@ -54,6 +59,11 @@
       "name": "4K live",
       "url": "https://ghp.ci/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
       "time": "2024.11.30"
+    },
+    {
+      "name": "local live",
+      "url": "http://meowtv.top/zb",
+      "time": "2024.12.01"
     }
   ]
 }

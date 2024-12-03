@@ -1,5 +1,14 @@
 {
-  "tvapp": [],
+  "tvapp": [
+    {
+      "name": "影视仓",
+      "url": "https://www.ilanzou.com/s/6T2y9SP2?code=1234"
+    },
+    {
+      "name": "小苹果影视",
+      "url": "https://www.ilanzou.com/s/13Uy9sN0?code=1234"
+    }
+  ],
   "multipleApi": [
     {
       "name": "一木多仓",

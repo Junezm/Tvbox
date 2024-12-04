@@ -83,6 +83,11 @@
       "name": "local live",
       "url": "http://meowtv.top/zb",
       "time": "2024.12.01"
+    },
+    {
+      "name": "5+ live",
+      "url": "https://live.kilvn.com/iptv.m3u",
+      "time": "2024.12.04"
     }
   ]
 }

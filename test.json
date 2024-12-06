@@ -61,6 +61,11 @@
       "name": "OK影视单仓",
       "url": "https://www.iyouhun.com/tv/7",
       "time": "2024.12.05"
+    },
+    {
+      "name": "南风影视",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "time": "2024.12.06"
     }
   ],
   "liveApi": [
@@ -93,6 +98,11 @@
       "name": "5+ live",
       "url": "https://live.kilvn.com/iptv.m3u",
       "time": "2024.12.04"
+    },
+    {
+      "name": "月晨 live",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
+      "time": "2024.12.06"
     }
   ]
 }

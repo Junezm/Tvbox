@@ -103,6 +103,11 @@
       "name": "驸马单仓",
       "url": "http://fmys.top/fmys.json",
       "time": "2024.12.15"
+    },
+    {
+      "name": "小白龙单仓",
+      "url": "http://124.71.189.194/a.json",
+      "time": "2024.12.16"
     }
   ],
   "liveApi": [

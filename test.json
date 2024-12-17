@@ -108,6 +108,11 @@
       "name": "小白龙单仓",
       "url": "http://124.71.189.194/a.json",
       "time": "2024.12.16"
+    },
+    {
+      "name": "ocean单仓",
+      "url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
+      "time": "2024.12.17"
     }
   ],
   "liveApi": [

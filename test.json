@@ -113,6 +113,11 @@
       "name": "ocean单仓",
       "url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
       "time": "2024.12.17"
+    },
+    {
+      "name": "77单仓",
+      "url": "https://chuanshuo.77blog.cn/tv.json",
+      "time": "2024.12.20"
     }
   ],
   "liveApi": [

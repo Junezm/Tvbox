@@ -160,6 +160,11 @@
       "name": "月晨 live",
       "url": "https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
       "time": "2024.12.06"
+    },
+    {
+      "name": "tivi live",
+      "url": "https://ghgo.xyz/https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.m3u",
+      "time": "2024.12.24"
     }
   ]
 }

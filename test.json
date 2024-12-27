@@ -133,6 +133,11 @@
       "name": "77单仓",
       "url": "https://chuanshuo.77blog.cn/tv.json",
       "time": "2024.12.20"
+    },
+    {
+      "name": "潇洒单仓",
+      "url": "https://9877.kstore.space/FourDS/api.json",
+      "time": "2024.12.27"
     }
   ],
   "liveApi": [

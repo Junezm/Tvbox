@@ -80,11 +80,6 @@
       "time": "2024.11.29"
     },
     {
-      "name": "100km",
-      "url": "https://www.100km.top/0",
-      "time": "2024.11.29"
-    },
-    {
       "name": "1201单仓",
       "url": "http://9xi4o.tk/0725.json",
       "time": "2024.12.01"
@@ -138,7 +133,12 @@
       "name": "潇洒单仓",
       "url": "https://9877.kstore.space/FourDS/api.json",
       "time": "2024.12.27"
-    }
+    },
+    {
+      "name": "100单仓",
+      "url": "https://www.100km.top/0",
+      "time": "2024.12.30"
+    },
   ],
   "liveApi": [
     {

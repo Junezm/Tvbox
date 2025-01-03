@@ -138,6 +138,11 @@
       "name": "100单仓",
       "url": "https://www.100km.top/0",
       "time": "2024.12.30"
+    },
+    {
+      "name": "TipTapS-01单仓",
+      "url": "https://mi.mpanso.me/DEMO.json",
+      "time": "2025.01.01"
     }
   ],
   "liveApi": [

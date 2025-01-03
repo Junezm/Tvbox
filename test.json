@@ -61,6 +61,11 @@
       "name": "匿名多仓",
       "url": "https://12586.kstore.space/123.json",
       "time": "2024.12.26"
+    },
+    {
+      "name": "TipTapM-01多仓",
+      "url": "https://bitbucket.org/xduo/cool/raw/main/room.json",
+      "time": "2025.01.03"
     }
   ],
   "singleApi": [

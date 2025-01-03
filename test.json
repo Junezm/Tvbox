@@ -180,6 +180,11 @@
       "name": "tivi live",
       "url": "https://ghgo.xyz/https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.m3u",
       "time": "2024.12.24"
+    },
+    {
+      "name": "TipTapL-IPV4 live",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "time": "2025.01.02"
     }
   ]
 }

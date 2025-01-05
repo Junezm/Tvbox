@@ -148,6 +148,11 @@
       "name": "TipTapS-01单仓",
       "url": "https://mi.mpanso.me/DEMO.json",
       "time": "2025.01.01"
+    },
+    {
+      "name": "TipTapS-02单仓",
+      "url": "https://ztha.top/TVBox/thdjk.json",
+      "time": "2025.01.05"
     }
   ],
   "liveApi": [
